@@ -42,4 +42,76 @@ K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN48
 F https://www.silabs.com/documents/public/data-sheets/efr32fg13-datasheet.pdf
 $ENDCMP
 #
+$CMP EFR32FG14P231F128GM32-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, sub-GHz at 20 dBm, 128K flash, 16K RAM, -40 to +85 C, QFN32
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN32
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P231F128GM48-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, sub-GHz at 20 dBm, 128K flash, 16K RAM, -40 to +85 C, QFN48
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN32
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P231F256GM32-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, sub-GHz at 20 dBm, 256K flash, 32K RAM, -40 to +85 C, QFN32
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN32
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P231F256GM48-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, sub-GHz at 20 dBm, 256K flash, 32K RAM, -40 to +85 C, QFN48
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN48
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P231F256IM32-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, sub-GHz at 20 dBm, 256K flash, 32K RAM, -40 to +125 C, QFN32
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN32
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P231F256IM48-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, sub-GHz at 20 dBm, 256K flash, 32K RAM, -40 to +125 C, QFN48
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN32
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P232F128GM32-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, 2.4 GHz at 19 dBm, 128K flash, 16K RAM, -40 to +85 C, QFN32
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN32
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P232F128GM48-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, 2.4 GHz at 19 dBm, 128K flash, 16K RAM, -40 to +85 C, QFN32
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN32
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P232F256GM32-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, 2.4 GHz at 19 dBm, 256K flash, 32K RAM, -40 to +85 C, QFN32
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN32
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P232F256GM48-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, 2.4 GHz at 19 dBm, 256K flash, 32K RAM, -40 to +85 C, QFN48
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN48
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P233F128GM48-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, sub-GHz at 20 dBm, 2.4 GHz at 19 dBm, 128K flash, 16K RAM, -40 to +85 C, QFN48
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN48
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
+$CMP EFR32FG14P233F256GM48-B
+D Flex Gecko, 32-bit ARM Cortex-M4, 1.8V to 3.8V, sub-GHz at 20 dBm, 2.4 GHz at 19 dBm, 256K flash, 32K RAM, -40 to +85 C, QFN48
+K Flex Gecko 32-bit ARM Cortex-M4 PWM UART SPI I2C ADC PROPRIETARY RF QFN48
+F https://www.silabs.com/documents/public/data-sheets/efr32fg14-datasheet.pdf
+$ENDCMP
+#
 #End Doc Library
